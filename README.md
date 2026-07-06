@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Fabrizio Giacona
 
-<!--
-**fabri308/fabri308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in **Computer Science & Engineering** at **Politecnico di Milano**, specializing in **Artificial Intelligence**.
 
-Here are some ideas to get you started:
+I am interested in designing intelligent systems that combine software engineering, machine learning, and large language models to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 💻 Passionate about software design and clean code
+- 📚 Currently expanding my knowledge in AI engineering and modern development tools
+- 🌱 Always learning something new
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+- Python
+- Java
+- C
+- Assembly
+- SQL
+- VHDL
+
+### Artificial Intelligence
+
+
+### Tools
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Movhex | dijkstra algorithm applied on an exagonal map with direct and undirect connections |
+| Sine Function | VHDL module that calculates the sine of an angle in range [0;359] |
+
+
+---
+
+## Current Goals
+
+
+---
+
+## GitHub Statistics
+
+
+---
+
+## Contact
+
+- LinkedIn:
+- Email: fabrizio.giacona@mail.polimi.it
+
+---
