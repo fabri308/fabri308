@@ -54,7 +54,7 @@ I am interested in designing intelligent systems that combine software engineeri
 
 ## Contact
 
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/fabrizio-giacona-5195283b1
 - Email: fabrizio.giacona@mail.polimi.it
 
 ---
