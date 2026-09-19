@@ -1,6 +1,6 @@
 # Hi, I'm Fabrizio Giacona
 
-M.Sc. student in **Computer Science & Engineering** at **Politecnico di Milano**, specializing in **Artificial Intelligence**.
+M.Sc. student in **Computer Science & Engineering** at **Politecnico di Milano**, specializing in **Cybersecurity**.
 
 I am interested in designing intelligent systems that combine software engineering, machine learning, and large language models to solve real-world problems.
 
@@ -24,9 +24,6 @@ I am interested in designing intelligent systems that combine software engineeri
 - Assembly
 - SQL
 - VHDL
-
-### Artificial Intelligence
-
 
 ### Tools
 
